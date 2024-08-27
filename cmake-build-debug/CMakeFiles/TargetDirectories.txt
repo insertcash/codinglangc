@@ -1,0 +1,3 @@
+C:/Users/best/CLionProjects/codinglangc/cmake-build-debug/CMakeFiles/codinglangc.dir
+C:/Users/best/CLionProjects/codinglangc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/best/CLionProjects/codinglangc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
